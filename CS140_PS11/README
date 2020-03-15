@@ -1,0 +1,12 @@
+README
+Roei and Becky
+
+We used the following command line code to run our program:
+% javac Build.java
+% java Build infile.txt outfile.txt
+Dimensions and Build need to be in the same directory
+Specify input and output text (.txt) files when running the Build class in the package.
+The input file should contain:
+First line = number of types of blocks
+The following lines = the three dimensions of each type of blocks available
+The output file provided should be empty
